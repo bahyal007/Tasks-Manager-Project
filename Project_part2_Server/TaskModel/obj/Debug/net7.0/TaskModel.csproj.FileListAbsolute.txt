@@ -1,0 +1,15 @@
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\bin\Debug\net7.0\TaskModel.deps.json
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\bin\Debug\net7.0\TaskModel.dll
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\bin\Debug\net7.0\TaskModel.pdb
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.csproj.AssemblyReference.cache
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.AssemblyInfoInputs.cache
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.AssemblyInfo.cs
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.csproj.CoreCompileInputs.cache
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.dll
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\refint\TaskModel.dll
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.pdb
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\ref\TaskModel.dll
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\bin\Debug\net7.0\TaskModel.runtimeconfig.json
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\obj\Debug\net7.0\TaskModel.genruntimeconfig.cache
+C:\Users\ab363356\source\repos\Project_part2_Server\TaskModel\bin\Debug\net7.0\appsettings.json
