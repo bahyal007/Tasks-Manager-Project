@@ -1,0 +1,17 @@
+<h1>Categories</h1>
+<p> Click ID to see tasks of that category. Click category Name to edit it.</p>
+<table class='table table-striped' aria-labelledby="tableLabel" [hidden]="!categories">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let category of categories">
+      <td><a [routerLink]="['/categorytaskdetails', category.id]">{{category.id}}</a></td>
+      <td><a [routerLink]="['/categoryedit', category.id]">{{category.name}}</a></td>
+      
+    </tr>
+  </tbody>
+</table>

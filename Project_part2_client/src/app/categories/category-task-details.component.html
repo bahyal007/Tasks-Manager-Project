@@ -1,0 +1,16 @@
+<h1>Tasks in {{categoryTaskDetails?.name}} Category</h1>
+
+<div *ngFor="let todoItem of categoryTaskDetails?.toDoItems">
+    <div style="padding-left: 20px;">
+        <h3 style="font-weight: bold; margin-bottom: 0;">Title:</h3>
+        <p style="margin-top: 0;">{{todoItem.title}}</p>
+        <h3 style="font-weight: bold; margin-bottom: 0;">Status:</h3>
+        <p style="margin-top: 0;">{{todoItem.status}}</p>
+        <h3 style="font-weight: bold; margin-bottom: 0;">Days Left:</h3>
+        <p style="margin-top: 0;">{{todoItem.daysLeft}}</p>
+    </div>
+    <hr/>
+</div>
+
+<br/>
+<button mat-button color="primary" [routerLink]="['/categories']">Back</button>

@@ -1,0 +1,18 @@
+<div class="category-edit">
+    <h1>Edit - {{category?.id}}</h1>
+    <p *ngIf="this.id && !category"><em>Loading...</em></p>
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+      <!-- Name -->
+      <mat-form-field>
+        <mat-label>Name:</mat-label>
+        <input matInput formControlName="name" placeholder="Type a name">
+      </mat-form-field>
+      <div>
+        <button mat-flat-button color="primary" type="submit">Save
+        </button>
+        <button mat-flat-button color="secondary" [routerLink]="['/categories']">
+          Cancel
+        </button>
+      </div>
+    </form>
+  </div>
